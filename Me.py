@@ -1,4 +1,4 @@
-- Hi I’m @Megovo
+-print("Hi I’m @Megovo")
 
 
 - 👀 I’m interested in programming 
