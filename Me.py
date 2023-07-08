@@ -1,4 +1,4 @@
--print("Hi I’m @Megovo")
+-("Hi I’m @Megovo")
 
 
 - 👀 I’m interested in programming 
